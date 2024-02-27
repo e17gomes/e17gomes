@@ -1,14 +1,14 @@
-Linguagens de Programação
+//Linguagens de Programação//
   JavaScript
   TypeScript
   Java (iniciando)
-Frameworks
+//Frameworks//
   React.js
   Next.js
-Bibliotecas de Estilo
+//Bibliotecas de Estilo//
   Tailwind CSS
   Bootstrap
-Bibliotecas/APIs
+//Bibliotecas/APIs//
   Axios
-Banco de Dados
+//Banco de Dados//
   SQL 
