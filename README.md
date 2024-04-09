@@ -2,10 +2,10 @@
 JavaScript <br> TypeScript <br> Java (Aprendendo) 
 
 ## Frameworks
-  React.js
+  React.js <br>
   Next.js
 ## Banco de Dados
-  Postgresql
+  Postgresql <br>
   SQL
   
 <div style="display: inline_block"><br>
