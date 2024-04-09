@@ -1,8 +1,6 @@
 ## Linguagens de Programação
-const languagesP = ['JavaScript', 'TypeScript', 'Java (Aprendendo)']
-languagesP.forEach(element => {
-    console.log(element)
-});
+JavaScript <br> TypeScript <br> Java (Aprendendo) 
+
 ## Frameworks
   React.js
   Next.js
