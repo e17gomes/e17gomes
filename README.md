@@ -14,6 +14,6 @@ JavaScript <br> TypeScript <br> Java (Aprendendo)
   <img align="center" alt="-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="-Axios" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon//icons/axios/axios-plain.svg">
+  <img align="center" alt="-Axios" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/axios/axios-plain.svg">
 
 </div>
