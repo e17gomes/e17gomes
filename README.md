@@ -1,7 +1,8 @@
 ## Linguagens de Programação
-  JavaScript
-  TypeScript
-  Java (iniciando)
+const languagesP = ['JavaScript', 'TypeScript', 'Java (Aprendendo)']
+languagesP.forEach(element => {
+    console.log(element)
+});
 ## Frameworks
   React.js
   Next.js
