@@ -1,4 +1,4 @@
-# Front-End Developer
+# FullStack Developer
 
 ## Programming Languages
 JavaScript <br> TypeScript <br> Java (Learning) 
